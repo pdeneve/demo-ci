@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: pdeneve/demo-cicd:1.0.0-56
+          image: pdeneve/demo-cicd:1.0.0-59
           ports:
             - containerPort: 8080
